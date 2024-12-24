@@ -1,0 +1,19 @@
+.card {
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .border-danger {
+    border-left: 4px solid #dc3545;
+  }
+  
+  .border-warning {
+    border-left: 4px solid #ffc107;
+  }
+  
+  .border-success {
+    border-left: 4px solid #28a745;
+  }
